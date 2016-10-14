@@ -1,0 +1,170 @@
+h3 {
+  font-size: 13px;
+  font-family: 'Lora', serif;
+  font-weight: bolder;
+  margin-top: 0;
+}
+
+h2 {
+  margin-bottom: 1px;
+}
+
+.top-right-nav {
+  padding-right: 22px;
+  padding-top: 10px;
+  font-size: 10pt;
+  float: right;
+}
+
+.navbar-form {
+  height: 20px;
+}
+
+p {
+  font-weight: normal;
+}
+
+.bigger {
+  font-size: 17px;
+}
+
+.header-box {
+    padding: 8px;
+    padding-right: 20px;
+    background-color: #f9f9f9;;
+    border: 1px solid lightgray;
+    margin: 5px;
+    height: 140px;
+    margin-top: 0px;
+}
+
+
+.search-form {
+
+}
+
+.floatleft {
+  float: left;
+
+}
+
+.floatright {
+
+}
+
+.left-column-box {
+  background-color: #f5fffa;
+  border: 1px solid #aaffa3;
+  margin: 5px;
+  margin-right: 0;
+  padding: 10px;
+  font-weight: normal;
+}
+
+/*.nav {
+  margin-bottom: 0px;
+}*/
+
+.nav-nav-tabs-navbar-left {
+margin-left: 0px;
+}
+
+.col-md-4 ul {
+  height: 8px;
+}
+
+.left-column-header {
+  background-color: #cef2e0;
+  border: 1px solid green;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-top: 0px;
+  padding: 4px;
+  font-family: inherit;
+}
+
+.right-column-box {
+  background-color: #f5faff;
+  margin: 5px;
+  border: 1px solid lightblue;
+  padding: 10px;
+  font-weight: normal;
+}
+
+.right-column-header {
+  background-color: #cedff2;
+  border: 1px solid black;
+  font-weight: bold;
+  margin-top: 0px;
+  font-size: 20px;
+  padding: 4px;
+  font-family: inherit;
+}
+
+.featpic {
+  background-color: #faf5ff;
+  border: 1px solid purple;
+  padding: 10px;
+  margin: 0 5px;
+}
+
+.feat-pic-header {
+  background-color: #ddcef2;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.section-title {
+    border-bottom: 1px solid black;
+}
+
+.left-image {
+  float: left;
+  margin: 10px;
+}
+
+.right-image {
+  float: right;
+  margin: 10px;
+}
+
+.sidebar {
+  float: left;
+  width: 15%;
+  margin-top: 30px;
+  margin-right: 2%;
+  border-right: 1px solid lightblue;
+  background-color: #f9f9f9;
+}
+
+.mainbody {
+  display: inline-block;
+  width: 78%;
+  margin-right: 5px;
+}
+
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  margin: 0;
+}
+
+.col-md-5 {
+  padding: 0;
+}
+
+.col-md-7 {
+  padding: 0;
+}
+
+ul sidebar {
+  list-style-type: none;
+}
+
+.remove-bullets {
+  list-style-type: none;
+  padding-left: 23px;
+}
